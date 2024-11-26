@@ -1,11 +1,11 @@
 # react-es6
 Learn ECMAScript 6
 
-Classes
-Arrow Functions
-Variables (let, const, var)
-Array Methods like .map()
-Destructuring
-Modules
-Ternary Operator
+Classes < br / >
+Arrow Functions < br / >
+Variables (let, const, var) < br / >
+Array Methods like .map() < br / >
+Destructuring < br / >
+Modules < br / >
+Ternary Operator < br / >
 Spread Operator
